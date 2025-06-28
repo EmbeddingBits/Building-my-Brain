@@ -1,5 +1,9 @@
 ## Personal Knowledge & College Notes Vault
 
+### Introduction
+
+This will be the place where I will be creating my own **Zettelkasten**. It contains my personal knowledge and the notes that I take for my college for the core subjects.
+
 ### Purpose
 
 This repository serves two purposes:
@@ -32,7 +36,7 @@ knowledge-vault/
 │   ├── networking/
 │   └── misc/
 ├── college/
-│   ├── microprocessors-and-microcontrollers/
+│   ├── MPMC/
 │   ├── computer-architecture-and-organisation/
 │   ├── DSA/
 │   ├── electronis-materials-and-devices/
@@ -65,4 +69,8 @@ knowledge-vault/
 * Write notes using **Obsidian** or **Neovim**.
 * Sync to GitHub for version control.
 * Organize topics by **Personal** and **College**.
+
+## For the table of contents
+
+Refer [[Table of Contents]]
 
