@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "fonts"
   ],
-  "accentColor": "#5e81ae"
+  "accentColor": "#5e81ae",
+  "cssTheme": "Obsidian Nord"
 }
