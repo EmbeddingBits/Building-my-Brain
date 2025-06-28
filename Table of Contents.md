@@ -1,3 +1,9 @@
+---
+id: Table of Contents
+aliases: []
+tags: []
+---
+
 # Knowledge Vault
 
 This vault documents both my **Personal knowledge** and my **College notes**. All sections are linked with relevant topics and organized for clean graph-based exploration.
@@ -9,10 +15,10 @@ This vault documents both my **Personal knowledge** and my **College notes**. Al
 - [[Personal/README]] – Master README of all personal knowledge domains
 
 ### Programming
-- [[Personal/Programming/README]]
-  - [[Personal/Programming/c/README]]
-  - [[Personal/Programming/python/README]]
-  - [[Personal/Programming/Golang]]
+- [[Personal/Programming/README|Personal]]
+  - [[Personal/Programming/C/README|C]]
+  - [[Personal/Programming/Python/README]]
+  - [[Personal/Programming/Golang/README]]
 
 ### Electronics
 - [[Personal/electronics/README]]
@@ -40,6 +46,11 @@ This vault documents both my **Personal knowledge** and my **College notes**. Al
 - [[College/Microprocessor and Microcontrollers/README]]
   - [[College/Microprocessor and Microcontrollers/module-1/README]]
   - [[College/Microprocessor and Microcontrollers/module-2/README]]
+  - [[College/Microprocessor and Microcontrollers/module-3/README]]
+  - [[College/Microprocessor and Microcontrollers/module-4/README]]
+  - [[College/Microprocessor and Microcontrollers/module-5/README]]
+  - [[College/Microprocessor and Microcontrollers/module-6/README]]
+  - [[College/Microprocessor and Microcontrollers/module-7/README]]
   - [[College/Microprocessor and Microcontrollers/summary]]
 
 ### Computer Architecture and Organisation

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08afb61362b0e835",
+        "id": "7b377b54ca22ac74",
         "type": "tabs",
         "children": [
           {
-            "id": "490d3a09f31a06a4",
+            "id": "a6110249f707c18c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Linux/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -194,43 +190,43 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "eb4335be08e5aae8",
+  "active": "a6110249f707c18c",
   "lastOpenFiles": [
     "Personal/Linux/README.md",
     "Table of Contents.md",
-    "Table of Contents.md~",
-    "Personal/programming/cpp/index.md",
-    "Personal/programming/cpp",
-    "Personal/programming",
-    "Personal/index.md",
-    "Personal/Linux.md",
     "README.md",
-    "College/Microprocessor and Microcontrollers/Microprocessor Architecture and Inerfacing",
-    "College/Microprocessor and Microcontrollers/Overview of Microprocessors",
-    "College/Electronics Machines and Devices",
-    "Personal/Tools and Software that I use",
-    "Personal/Programming/Python",
-    "Personal/Programming/Golang",
-    "Personal/Programming/C",
-    "College/Untitled.md",
-    "Personal/Untitled.md",
-    "This is a link to one of the files in the directory.md",
-    "this is another one such link.md",
-    "This is another link.md",
-    "README.md.md",
-    "My name is Amiitesh.md",
-    "Physics/whether function of a aolution or not.md",
-    "Physics/Table of Contents.md",
-    "Physics/wave equation on a string.md",
-    "Physics/Electromagnetism/Velocity of Light in Medium.md",
-    "Physics/Electromagnetism/Plane EM Wave Equation – Derivation in E and H.md",
-    "Physics/Electromagnetism/Maxwell’s Equations – Medium vs Free Space.md",
-    "Physics/Electromagnetism/Gradient, Divergence, Curl.md",
-    "Physics/Waves/Parameters of wave A, ω, v, f, λ.md",
-    "Physics/Waves/Impedance.md",
-    "Physics/Waves/Whether solution of a function or not?.md",
-    "Physics/Waves/Standing wave equation.md",
-    "Physics/Waves/Wave equation on a string - derivation.md",
-    "Waves/Wave equation on a string - derivation.md"
+    "Personal/Programming/README.md",
+    "Personal/README.md",
+    "College/Microprocessor and Microcontrollers/module-7/README.md",
+    "College/Microprocessor and Microcontrollers/module-7",
+    "College/Microprocessor and Microcontrollers/module-6/README.md",
+    "College/Microprocessor and Microcontrollers/module-6",
+    "College/Microprocessor and Microcontrollers/module-4/README.md",
+    "College/Microprocessor and Microcontrollers/module-5/README.md",
+    "College/Microprocessor and Microcontrollers/module-5",
+    "College/Microprocessor and Microcontrollers/module-4",
+    "College/Microprocessor and Microcontrollers/README.md",
+    "College/Microprocessor and Microcontrollers/module-3/README.md",
+    "College/Microprocessor and Microcontrollers/module-3",
+    "Table of Contents.md~",
+    "College/Microprocessor and Microcontrollers/1751118326-QAGV.md",
+    "College/Microprocessor and Microcontrollers/module-2/README.md",
+    "College/Microprocessor and Microcontrollers/module-2",
+    "College/Microprocessor and Microcontrollers/module-1/README.md",
+    "College/Microprocessor and Microcontrollers/module-1",
+    "Personal/Programming/Systems/README.md",
+    "Personal/Programming/Systems",
+    "Personal/Programming/DSA/README.md",
+    "Personal/Programming/DSA",
+    "Personal/Programming/Python/README.md",
+    "Personal/Linux/basics/README.md",
+    "Personal/Linux/distros/README.md",
+    "Personal/Programming/C/README.md",
+    "Personal/Programming/Golang/README.md",
+    "Personal/Linux/system-tools/README.md",
+    "Personal/Linux/kernel-and-drivers/README.md",
+    "Personal/Linux/system-administration/README.md",
+    "Personal/Linux/scripting/README.md",
+    "Personal/Linux/dotfiles-and-configs/README.md"
   ]
 }
