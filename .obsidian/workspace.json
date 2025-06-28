@@ -11,10 +11,14 @@
             "id": "6eccff0e8e90a9f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My name is Amiitesh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "My name is Amiitesh"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My name is Amiitesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for My name is Amiitesh"
             }
           },
           {
@@ -164,10 +169,10 @@
   },
   "active": "6eccff0e8e90a9f5",
   "lastOpenFiles": [
+    "My name is Amiitesh.md",
     "Physics/whether function of a aolution or not.md",
     "Physics/Table of Contents.md",
     "Physics/wave equation on a string.md",
-    "Untitled.md",
     "Physics",
     "Physics/Electromagnetism/Velocity of Light in Medium.md",
     "Physics/Electromagnetism/Plane EM Wave Equation – Derivation in E and H.md",

@@ -30,7 +30,7 @@
 
     --red_x:    191,97,106; /* #bf616a */
     --red:      rgb(var(--red_x));
-    --orange_x: 208,135,112; /* #d08770 */
+    --orange_x: 136,192,208; /* #d08770 */
     --orange:   rgb(var(--orange_x));
     --yellow_x: 235,203,139; /* #ebcb8b */
     --yellow:   rgb(var(--yellow_x));
