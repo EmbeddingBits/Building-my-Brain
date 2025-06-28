@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "a380a076c71dca61",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c0ef46589da674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eccff0e8e90a9f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "863e20a23052932b",
+    "type": "split",
+    "children": [
+      {
+        "id": "73812e0b04fe2256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb4335be08e5aae8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae228e3bee5066b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fcb8c6b462148eff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed2f52e03b704640",
+    "type": "split",
+    "children": [
+      {
+        "id": "6792d8011a113f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7339868e6db955c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b0c24fb7e20fd1cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/Table of Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Table of Contents"
+            }
+          },
+          {
+            "id": "5fa08b163f560188",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "706f4297a1dba349",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/Table of Contents.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Table of Contents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6eccff0e8e90a9f5",
+  "lastOpenFiles": [
+    "Physics/whether function of a aolution or not.md",
+    "Physics/Table of Contents.md",
+    "Physics/wave equation on a string.md",
+    "Untitled.md",
+    "Physics",
+    "Physics/Electromagnetism/Velocity of Light in Medium.md",
+    "Physics/Electromagnetism/Plane EM Wave Equation – Derivation in E and H.md",
+    "Physics/Electromagnetism/Maxwell’s Equations – Medium vs Free Space.md",
+    "Physics/Electromagnetism/Gradient, Divergence, Curl.md",
+    "Physics/Electromagnetism",
+    "Physics/Table of Contents.md~",
+    "Physics/Waves/Parameters of wave A, ω, v, f, λ.md",
+    "Physics/Waves/Impedance.md",
+    "Physics/Waves/Whether solution of a function or not?.md",
+    "Physics/Waves/Standing wave equation.md",
+    "Physics/Waves/Wave equation on a string - derivation.md",
+    "Waves/Wave equation on a string - derivation.md",
+    "Waves",
+    "WavesWave equation on a string - derivation.md",
+    "Physics/Fiber Optics",
+    "Physics/Lasers",
+    "Physics/Nanoparticles",
+    "Physics/Quantum Mechanics",
+    "Physics/Electromagnestism",
+    "Physics/Waves",
+    "Table of Contents.md",
+    "Standing wave equation.md",
+    "Wave equation on a string - derivation.md",
+    "Velocity of Light in Medium.md",
+    "Welcome.md"
+  ]
+}
