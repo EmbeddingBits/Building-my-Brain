@@ -1,4 +1,4 @@
-Date: 29-06-2025 10:06
+Date: 29-06-2025
 
 # Introduction
 
@@ -12,3 +12,5 @@ There are different distros which follow their own philosophy and methods of ope
 - [[Personal/Linux/Distros/Fedora|Fedora]] - Fedora is known for its cutting edge technology often used by programmers for its availability and access to newer software. More information can be found here [[Fedora]]
 
 - [[Personal/Linux/Distros/NixOS|NixOS]] - NixOS is known for its declarative nature and reprodicibility. The packages are not installed imperatively but rather declarative. The files are declared into a configuration.nix file which follows the [[Nix package manager X languaguge|Nix language syntax]]. More information on Nix could be found here [[Nix package manager X languaguge]] and more information on NixOS can be found here [[NixOS]]
+
+Parent node: [[Linux]]
