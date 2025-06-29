@@ -4,5 +4,6 @@
   "map-of-content",
   "calendar",
   "better-word-count",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "autocorrect-formatter"
 ]

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7b377b54ca22ac74",
+        "id": "de7a84527ae0c0d4",
         "type": "tabs",
         "children": [
           {
-            "id": "a6110249f707c18c",
+            "id": "c8715bdf9c6145f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Linux/Distros/Distro-README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Distro-README"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ed2f52e03b704640",
@@ -190,11 +204,21 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a6110249f707c18c",
+  "active": "c8715bdf9c6145f0",
   "lastOpenFiles": [
-    "Personal/Linux/README.md",
+    "Personal/Linux/Distros/Distro-README.md",
+    "Personal/Linux/Linux.md",
     "Table of Contents.md",
     "README.md",
+    "Personal/Linux/cli/cli.md",
+    "Personal/Linux/cli",
+    "Personal/Linux/Distros/NixOS.md",
+    "Personal/Linux/Distros/Debian.md",
+    "Personal/Linux/Distros/Arch.md",
+    "Personal/Linux/Distros",
+    "Templates/Main content.md",
+    "Templates/Untitled",
+    "Templates",
     "Personal/Programming/README.md",
     "Personal/README.md",
     "College/Microprocessor and Microcontrollers/module-7/README.md",
@@ -211,22 +235,12 @@
     "Table of Contents.md~",
     "College/Microprocessor and Microcontrollers/1751118326-QAGV.md",
     "College/Microprocessor and Microcontrollers/module-2/README.md",
-    "College/Microprocessor and Microcontrollers/module-2",
     "College/Microprocessor and Microcontrollers/module-1/README.md",
-    "College/Microprocessor and Microcontrollers/module-1",
     "Personal/Programming/Systems/README.md",
-    "Personal/Programming/Systems",
     "Personal/Programming/DSA/README.md",
-    "Personal/Programming/DSA",
     "Personal/Programming/Python/README.md",
     "Personal/Linux/basics/README.md",
     "Personal/Linux/distros/README.md",
-    "Personal/Programming/C/README.md",
-    "Personal/Programming/Golang/README.md",
-    "Personal/Linux/system-tools/README.md",
-    "Personal/Linux/kernel-and-drivers/README.md",
-    "Personal/Linux/system-administration/README.md",
-    "Personal/Linux/scripting/README.md",
-    "Personal/Linux/dotfiles-and-configs/README.md"
+    "Personal/Programming/C/README.md"
   ]
 }
