@@ -70,7 +70,3 @@ knowledge-vault/
 * Sync to GitHub for version control.
 * Organize topics by **Personal** and **College**.
 
-## For the table of contents
-
-Refer [[Table of Contents]]
-
