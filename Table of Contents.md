@@ -4,13 +4,19 @@ This is the place where I will be taking/writing notes and stuff I know about an
 
 ## Personal
 
-### Linux
+## [[Electronics]]
 
-- [[Linux]] - My notes on Linux
 
-### Programming
+### [[Linux]]
 
-- [[C|C-programming]]
-- [[Golang|Golang]]
-- [[Python|Python]]
-- [[DSA-Personal|DSA]]
+
+### [[Networking]]
+
+
+### [[Operating Systems]]
+
+
+### [[Programming]]
+
+
+### [[Tools and Software]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Linux/cli/shell/bash.md",
+                "file": "Personal/Networking/Networking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "Networking"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "ed2f52e03b704640",
@@ -206,41 +206,41 @@
   },
   "active": "cfac890b8bd448a3",
   "lastOpenFiles": [
-    "Personal/Linux/cli/shell/Shell.md",
-    "Personal/Linux/cli/shell/sh.md",
-    "Personal/Linux/cli/shell/bash.md",
-    "Personal/Linux/Linux.md",
-    "Table of Contents.md",
-    "Personal/Operating Systems",
-    "Personal/Linux/cli/coreutils.md",
-    "Personal/Linux/cli/Terminal/Terminal.md",
-    "Personal/Electronics",
-    "Personal/Software Development",
-    "Personal/Linux/cli/shell/fish.md",
-    "Personal/Linux/cli/shell/zsh.md",
-    "Personal/Linux/cli/shell/sh",
-    "Personal/Linux/cli/shell/fish",
-    "Personal/Linux/cli/shell/bash",
-    "Personal/Linux/cli/shell/zsh",
-    "Personal/Linux/cli/CLI.md",
-    "Personal/Programming/DSA/DSA-Personal.md",
-    "Personal/Linux/Distros/Distro.md",
-    "Personal/Linux/package management/Packaging.md",
-    "Personal/Linux/package management/Nix package manager X languaguge.md",
-    "Personal/Linux/Networking/Linux-Networking.md",
-    "Personal/Linux/kernel/Kernel.md",
-    "Personal/Linux/dotfile-management/dotfiles.md",
-    "README.md",
-    "Personal/Programming/C/C.md",
-    "Personal/Programming/Golang/Golang.md",
-    "Personal/Programming/Python/Python.md",
-    "Personal/Programming/DSA",
-    "Personal/Programming/Python/Python-README",
-    "Personal/Programming/Golang/Golang-README",
-    "Personal/Linux/cli/Terminal/st.md",
-    "Personal/Linux/cli/Terminal/foot.md",
-    "Personal/Linux/cli/Terminal/alacritty.md",
-    "Personal/Linux/cli/Terminal/kitty.md",
-    "Personal/Linux/Distros/NixOS.md"
+    "Personal/Operating Systems/Operating Systems.md",
+    "Personal/Operating Systems/Microkernel and Monolithic.md",
+    "Personal/Operating Systems/Windows NT.md",
+    "Personal/Operating Systems/Linux Kernel.md",
+    "Personal/Operating Systems/UNIX Philosophy.md",
+    "Personal/Operating Systems/Kernel Programming",
+    "Personal/Networking/Networking.md",
+    "Personal/Networking/OSI Model/OSI Model.md",
+    "Personal/Networking/OSI Model/Transport/Transport Layer.md",
+    "Personal/Networking/OSI Model/Physical/Physical Layer.md",
+    "Personal/Networking/OSI Model/Network/Network Layer.md",
+    "Personal/Networking/OSI Model/Datalink/Datalink Layer.md",
+    "Personal/Networking/OSI Model/Application/Application Layer.md",
+    "Personal/Networking/OSI Model/Application/Application",
+    "Personal/Networking/OSI Model/Datalink/Datalink",
+    "Personal/Networking/OSI Model/Network/Network",
+    "Personal/Networking/OSI Model/Transport/Transport",
+    "Personal/Networking/OSI Model/Layer",
+    "Personal/Networking/OSI Model/Physical/Physical",
+    "Personal/Networking/OSI Model/Application",
+    "Personal/Networking/OSI Model/Transport",
+    "Personal/Networking/OSI Model/Network",
+    "Personal/Networking/Protocols/TACACS+.md",
+    "Personal/Networking/Protocols/RADIUS.md",
+    "Personal/Networking/Protocols/PPTP.md",
+    "Personal/Networking/Protocols/L2TP.md",
+    "Personal/Networking/Protocols/GRE.md",
+    "Personal/Networking/Protocols/RSVP.md",
+    "Personal/Networking/Protocols/PBFT.md",
+    "Personal/Networking/Protocols/Raft.md",
+    "Personal/Networking/Protocols/Ethereum.md",
+    "Personal/Networking/Protocols/Bitcoin.md",
+    "Personal/Networking/Protocols/gRPC.md",
+    "Personal/Networking/Protocols/Protobuf.md",
+    "Personal/Networking/Protocols/Thrift.md",
+    "Personal/Networking/Protocols/JDBC.md"
   ]
 }

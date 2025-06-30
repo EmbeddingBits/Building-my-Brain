@@ -4,4 +4,5 @@ Date: {{Date}}
 
 
 
-# {{Resources}}
+
+Back to parent node: [[]]
