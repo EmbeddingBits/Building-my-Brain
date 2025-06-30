@@ -155,14 +155,11 @@ Linux/
 ├── Security & Permissions/
 │   ├── File Permissions Explained.md
 │   ├── chmod, chown, umask.md
-│   ├── Sticky Bit, SUID, SGID.md
 │   ├── sudo vs su.md
-│   ├── AppArmor vs SELinux.md
 │   ├── Linux Capabilities.md
 │   ├── /etc/shadow and passwd.md
 │   ├── PAM.md
 │   ├── SSH Security.md
-│   ├── UFW Firewall.md
 │   ├── Rootkits and Malware.md
 │   ├── Lynis Hardening.md
 │   ├── Secure Boot.md
@@ -192,34 +189,6 @@ Linux/
 │   ├── nix Package Management.md
 │   ├── Binary vs Source Packages.md
 │   └── Static vs Dynamic Linking.md
-├── Performance & Tuning/
-│   ├── Load Average.md
-│   ├── top vs htop.md
-│   ├── iotop.md
-│   ├── vmstat.md
-│   ├── dstat, sar, iostat.md
-│   ├── perf.md
-│   ├── CPU Frequency Scaling.md
-│   ├── nice and renice.md
-│   ├── strace and ltrace.md
-│   ├── bpftrace.md
-│   ├── Swap and Swappiness.md
-│   ├── TCP Tuning and sysctl.md
-│   ├── ZRAM and Zswap.md
-│   └── systemd-analyze.md
-├── Practice & Projects/
-│   ├── Build Linux Kernel.md
-│   ├── Write a Bash Shell.md
-│   ├── Track syscalls with strace.md
-│   ├── Profile App with perf.md
-│   ├── Make a Minimal initramfs.md
-│   ├── Create a chroot Jail.md
-│   ├── Install Arch Linux.md
-│   ├── Build Network Router.md
-│   ├── RAID1 on 2 Disks.md
-│   ├── Compare ext4 and Btrfs.md
-│   ├── Create systemd Service.md
-│   └── Customize GRUB Theme.md
 ├── Distros & Ecosystem/
 │   ├── What is a Distro?.md
 │   ├── Debian vs Fedora vs Arch.md

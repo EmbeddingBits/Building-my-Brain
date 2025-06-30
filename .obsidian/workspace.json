@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Networking/Networking.md",
+                "file": "Personal/Linux/Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Networking"
+              "title": "Linux"
             }
           }
         ]
@@ -206,13 +206,14 @@
   },
   "active": "cfac890b8bd448a3",
   "lastOpenFiles": [
+    "Personal/Tools and Software/Tools and Software.md",
+    "Personal/Networking/Networking.md",
     "Personal/Operating Systems/Operating Systems.md",
     "Personal/Operating Systems/Microkernel and Monolithic.md",
     "Personal/Operating Systems/Windows NT.md",
     "Personal/Operating Systems/Linux Kernel.md",
     "Personal/Operating Systems/UNIX Philosophy.md",
     "Personal/Operating Systems/Kernel Programming",
-    "Personal/Networking/Networking.md",
     "Personal/Networking/OSI Model/OSI Model.md",
     "Personal/Networking/OSI Model/Transport/Transport Layer.md",
     "Personal/Networking/OSI Model/Physical/Physical Layer.md",
@@ -240,7 +241,6 @@
     "Personal/Networking/Protocols/Bitcoin.md",
     "Personal/Networking/Protocols/gRPC.md",
     "Personal/Networking/Protocols/Protobuf.md",
-    "Personal/Networking/Protocols/Thrift.md",
-    "Personal/Networking/Protocols/JDBC.md"
+    "Personal/Networking/Protocols/Thrift.md"
   ]
 }

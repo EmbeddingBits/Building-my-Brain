@@ -22,15 +22,6 @@ Here, there is notes of everythin i know in networks
 
 Here there are notes about OSI model
 
----
-
-## 📶 Wireless Networking
-
-- [[WiFi Standards (802.11a/b/g/n/ac/ax)]]
-- [[SSID, BSSID, Channels]]
-- [[2.4GHz and 5GHz]]
-- [[Wireless Encryption: WEP, WPA2, WPA3]]
-- [[Roaming and Signal Strength]]
 
 ---
 
