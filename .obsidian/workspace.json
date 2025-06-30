@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Linux/Linux.md",
+                "file": "Personal/Networking/Protocols/Connection-oriented and Connectionless Protocols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Connection-oriented and Connectionless Protocols"
             }
           }
         ]
@@ -206,8 +206,18 @@
   },
   "active": "cfac890b8bd448a3",
   "lastOpenFiles": [
-    "Personal/Tools and Software/Tools and Software.md",
     "Personal/Networking/Networking.md",
+    "Personal/Networking/Protocols/Connection-oriented and Connectionless Protocols.md",
+    "Personal/Networking/Switching Methods.md",
+    "Personal/Networking/Images",
+    "Personal/Networking/Protocols/Protocols.md",
+    "Personal/Networking/Protocols/5G.md",
+    "Personal/Open Source",
+    "Personal/Cybersecurity",
+    "TCP/IP Model and OSI Model.md",
+    "TCP",
+    "Personal/Linux/Linux.md",
+    "Personal/Tools and Software/Tools and Software.md",
     "Personal/Operating Systems/Operating Systems.md",
     "Personal/Operating Systems/Microkernel and Monolithic.md",
     "Personal/Operating Systems/Windows NT.md",
@@ -225,22 +235,12 @@
     "Personal/Networking/OSI Model/Network/Network",
     "Personal/Networking/OSI Model/Transport/Transport",
     "Personal/Networking/OSI Model/Layer",
-    "Personal/Networking/OSI Model/Physical/Physical",
-    "Personal/Networking/OSI Model/Application",
-    "Personal/Networking/OSI Model/Transport",
-    "Personal/Networking/OSI Model/Network",
     "Personal/Networking/Protocols/TACACS+.md",
     "Personal/Networking/Protocols/RADIUS.md",
     "Personal/Networking/Protocols/PPTP.md",
     "Personal/Networking/Protocols/L2TP.md",
     "Personal/Networking/Protocols/GRE.md",
     "Personal/Networking/Protocols/RSVP.md",
-    "Personal/Networking/Protocols/PBFT.md",
-    "Personal/Networking/Protocols/Raft.md",
-    "Personal/Networking/Protocols/Ethereum.md",
-    "Personal/Networking/Protocols/Bitcoin.md",
-    "Personal/Networking/Protocols/gRPC.md",
-    "Personal/Networking/Protocols/Protobuf.md",
-    "Personal/Networking/Protocols/Thrift.md"
+    "Personal/Networking/Protocols/PBFT.md"
   ]
 }

@@ -4,74 +4,25 @@ Here, there is notes of everythin i know in networks
 
 ---
 
-## Concepts
+## Computer Networks
 
-- [[What is a Computer Network?]]
-- [[Why Do We Need Networking?]]
-- [[OSI Model Explained]] 
-- [[TCP/IP Model and OSI Model]] 
-- [[Unicast, Broadcast, Multicast]]
-- [[Data Encapsulation and Decapsulation]]
-- [[Ports and Protocol Numbers]]
-- [[Connection-Oriented and Connectionless]]
-- [[Bandwidth, Latency, Throughput]]
+Network is a collection of computers or hardware devices that are connected together either physically or logically using special hardware that allow them to exchange information.
 
+Network is one of the hardest concepts of computing. Even the smallest application of a network contains different other components working together to give the best experience.
+
+So, to understand them more efficiently, we split them into smaller divisions which in a way makes more sense then swallowing it as a whole.
+
+They are divided into Networking Layers, Networking Models and Networking Architectures.
+
+This sections contains all the information I've learnt regarding Networks.
+
+### Table of Contents:
+- [[Protocols]]
+- [[Switching Methods]]
+- [[Connection-oriented and Connectionless Protocols]]
 ---
 
-## [[OSI Model]]
 
-Here there are notes about OSI model
-
-
----
-
-## 🔐 Network Security
-
-- [[Firewalls and Filtering]]
-- [[Packet Filtering and Stateful Filtering]]
-- [[IDS and IPS]]
-- [[VPNs and Tunneling Protocols]]
-- [[TLS Certificates and Trust Chain]]
-- [[Port Scanning and Nmap]]
-- [[Common Attacks (MITM, DDoS, DNS Poisoning)]]
-- [[Zero Trust Networking]]
-
----
-
-## 🛠️ Network Tools & Utilities
-
-- [[ping, traceroute, mtr]]
-- [[ip and ifconfig]]
-- [[netstat, ss, lsof]]
-- [[dig and nslookup]]
-- [[tcpdump and Wireshark]] 
-- [[curl and wget]]
-- [[nc (netcat)]]
-
----
-
-## 🏛️ Network Architecture
-
-- [[LAN, WAN, MAN]]
-- [[Topology Types (Star, Mesh, Ring...)]]
-- [[Data Center Networking]]
-- [[Content Delivery Networks (CDN)]]
-- [[Load Balancing Algorithms]]
-- [[Overlay Networks and VXLAN]]
-- [[SDN: Software Defined Networking]]
-- [[Network Function Virtualization (NFV)]]
-
----
-
-## 💻 Network Programming
-
-- [[What is a Socket?]]
-- [[TCP Socket Programming in C]]
-- [[UDP Socket Programming]]
-- [[Raw Sockets and Packet Crafting]]
-- [[HTTP Requests with Python (requests)]]
-
----
 
 Parent Node: [[Table of Contents]]
 
