@@ -11,24 +11,10 @@
             "id": "cfac890b8bd448a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Networking/Protocols/Connection-oriented and Connectionless Protocols.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Connection-oriented and Connectionless Protocols"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,8 +192,8 @@
   },
   "active": "cfac890b8bd448a3",
   "lastOpenFiles": [
+    "Personal/Networking/Connection-oriented and Connectionless Protocols.md",
     "Personal/Networking/Networking.md",
-    "Personal/Networking/Protocols/Connection-oriented and Connectionless Protocols.md",
     "Personal/Networking/Switching Methods.md",
     "Personal/Networking/Images",
     "Personal/Networking/Protocols/Protocols.md",
