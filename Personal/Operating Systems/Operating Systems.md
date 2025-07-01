@@ -7,7 +7,6 @@ tags: []
 # Operating Systems (Index)
 
 ## Concepts
-- [[What is an Operating System]]
 - [[User Space vs Kernel Space]]
 - [[System Calls]]
 

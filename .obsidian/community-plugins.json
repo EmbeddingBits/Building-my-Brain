@@ -5,5 +5,7 @@
   "calendar",
   "better-word-count",
   "highlightr-plugin",
-  "autocorrect-formatter"
+  "autocorrect-formatter",
+  "contribution-graph",
+  "dataview"
 ]

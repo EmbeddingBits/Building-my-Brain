@@ -22,7 +22,5 @@ This sections contains all the information I've learnt regarding Networks.
 - [[Connection-oriented and Connectionless Protocols]]
 ---
 
-
-
 Parent Node: [[Table of Contents]]
 

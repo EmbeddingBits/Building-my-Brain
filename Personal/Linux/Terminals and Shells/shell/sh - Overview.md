@@ -2,7 +2,7 @@
 
 sh is the original UNIX-shell and its the ancestor of many other modern shells like bash, zsh, ksh and dash.
 
-It provides a command execution environment and [[scripting]] abilities to [[automate]] our everyday common [[workflow|workflows]]. It gives us a basic job control and redirection like `>`, `<`, `|`.
+It provides a command execution environment and scripting abilities to automate our everyday common workflows. It gives us a basic job control and redirection like `>`, `<`, `|`.
 
 It is [[POSIX-complaint]], meaning that it has a standardized behaviour in all the UNIX-like systems.
 
