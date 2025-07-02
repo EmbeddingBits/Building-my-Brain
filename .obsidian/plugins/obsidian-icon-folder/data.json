@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiNotebook",
+      "LiVault",
+      "LiComputer",
+      "LiOpenVault",
+      "LiNetwork"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "College": "🏛",
+  "Personal": "LiBrain",
+  "Personal/Programming": "LiCodeSquare",
+  "Personal/Electronics": "LiMicrochip",
+  "Personal/Networking": "LiNetwork",
+  "Personal/Open Source": "LiOpenVault",
+  "Personal/Linux": "LiComputer",
+  "Personal/Cybersecurity": "LiVault",
+  "Personal/Operating Systems": "LiComputer",
+  "Personal/Tools and Software": "LiNotebook"
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Linux/Terminals and Shells/shell/sh - Overview.md",
+                "file": "Personal/Linux/Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sh - Overview"
+              "title": "Linux"
             }
           }
         ]
@@ -207,6 +207,9 @@
   "active": "cfac890b8bd448a3",
   "lastOpenFiles": [
     "Personal/Linux/Linux.md",
+    "Personal/Networking/OSI Model/Datalink/Datalink Layer.md",
+    "Personal/Networking/OSI Model/Application/Application Layer.md",
+    "Personal/Linux/Terminals and Shells/shell/sh - Overview.md",
     "Personal/Programming/Programming.md",
     "Personal/Linux/Dotfiles and Linux Configuration/dotfiles.md",
     "Personal/Linux/Distros and Ecosystem/Distro.md",
@@ -232,15 +235,12 @@
     "Personal/Networking/OSI Model/Transport/Transport Layer.md",
     "Personal/Networking/OSI Model/Physical/Physical Layer.md",
     "Personal/Networking/OSI Model/Network/Network Layer.md",
-    "Personal/Networking/OSI Model/Datalink/Datalink Layer.md",
-    "Personal/Networking/OSI Model/Application/Application Layer.md",
     "Personal/Networking/OSI Model/Application/Application",
     "Personal/Networking/OSI Model/Datalink/Datalink",
     "Personal/Networking/OSI Model/Network/Network",
     "Personal/Networking/OSI Model/Transport/Transport",
     "Personal/Networking/OSI Model/Layer",
     "Personal/Networking/Protocols/TACACS+.md",
-    "Personal/Networking/Protocols/RADIUS.md",
-    "Personal/Networking/Protocols/PPTP.md"
+    "Personal/Networking/Protocols/RADIUS.md"
   ]
 }
