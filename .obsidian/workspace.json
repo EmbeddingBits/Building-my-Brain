@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Networking/Basics/Messages/Cells.md",
+                "file": "Personal/Networking/Basics/Messages and Formatting/Messages and Formatting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cells"
+              "title": "Messages and Formatting"
             }
           }
         ]
@@ -206,17 +206,20 @@
   },
   "active": "cfac890b8bd448a3",
   "lastOpenFiles": [
-    "Personal/Networking/Basics/Messages/Cells.md",
-    "Personal/Networking/Basics/Messages/Frames.md",
-    "Personal/Networking/Basics/Messages/Messages.md",
-    "Personal/Networking/Basics/Messages/Datagrams.md",
-    "Personal/Networking/Basics/Messages/Packet.md",
+    "Personal/Networking/Basics/Messages and Formatting/Packet.md",
+    "Personal/Networking/Basics/Messages and Formatting/Frames.md",
+    "Personal/Networking/Basics/Messages and Formatting/Messages and Formatting.md",
+    "Personal/Networking/Basics/Messages and Formatting/Cells.md",
+    "Personal/Networking/Basics/Messages and Formatting/Datagrams.md",
+    "Personal/Networking/Images/formatting.png",
+    "Personal/Networking/Images",
+    "Personal/Networking/Basics/Messages and Formatting/Message Formatting",
     "Personal/Networking/OSI Model/Transport-Layer.md",
     "Personal/Networking/OSI Model/Physical-Layer.md",
     "Personal/Networking/OSI Model/Network-Layer.md",
     "Personal/Networking/OSI Model/Datalink-Layer.md",
     "Personal/Networking/OSI Model/Application-Layer.md",
-    "Personal/Networking/Basics/Messages",
+    "Personal/Networking/Basics/Messages and Formatting",
     "Personal/Networking/Basics/Connection-oriented and Connectionless Protocols.md",
     "Personal/Networking/Basics/Switching Methods.md",
     "Personal/Networking/Basics",
@@ -233,14 +236,11 @@
     "Personal/Linux/Distros and Ecosystem/Distro.md",
     "Personal/Linux/CLI-essentials/CLI.md",
     "Personal/Operating Systems/Operating Systems.md",
-    "Personal/Operating Systems/UNIX Philosophy.md",
-    "Personal/Networking/Images",
     "Personal/Open Source",
     "Personal/Cybersecurity",
     "TCP",
     "Personal/Operating Systems/Kernel Programming",
     "Personal/Networking/OSI Model/Application/Application",
-    "Personal/Networking/OSI Model/Datalink/Datalink",
-    "Personal/Networking/OSI Model/Network/Network"
+    "Personal/Networking/OSI Model/Datalink/Datalink"
   ]
 }

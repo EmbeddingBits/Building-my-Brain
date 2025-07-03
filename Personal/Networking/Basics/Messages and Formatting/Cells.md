@@ -7,4 +7,4 @@ In general, Frames and Packets can differ in sizes depending upon the informatio
 Just like frames, they are the messages that are sent in the lower level of the OSI reference model.
 
 
-Back to parent node: [[Messages]]
+Back to parent node: [[Messages and Formatting]]
